@@ -1,0 +1,23 @@
+{
+ "intents":
+ [
+  {
+      "tag": "pros",
+      "input": ["How many people are on social media?"],
+      "responses": [
+                    "their are melions of people on social media",
+                    "over 3.6 billion people",
+                    "many people were using social media worldwide, a number projected to increase to almost 4.41 billion in 2025"
+      ]
+  },
+  {
+      "tag": "cons",
+      "input": ["social media is the wastage of time"],
+      "responses": [
+                    "it depending on how you make use of your online presence",
+                    "You could turn a huge proportion of your friends on social media into productive customers",
+                    "for many people it is the source of income"
+      ]
+  }
+ ]
+}
